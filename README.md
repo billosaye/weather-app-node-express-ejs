@@ -66,9 +66,3 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-### Customize the README.md:
-- Replace `/path/to/screenshot.png` with the actual path or URL to a screenshot of your Weather App.
-- Update the API reference, contributing guidelines, license information, acknowledgments, and contact details as per your project's specifics.
-- Include any additional sections or details relevant to your project's functionality or development process.
-
-This README.md template provides a comprehensive guide for users and contributors, ensuring clarity and accessibility for anyone interacting with your Weather App project.
