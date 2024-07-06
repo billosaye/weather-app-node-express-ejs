@@ -2,9 +2,7 @@ Creating a well-structured README.md file is crucial for your Weather App projec
 
 ---
 
-# Weather App
 
-![Weather App Screenshot](/path/to/screenshot.png)
 
 ## Overview
 The Weather App is a simple web application that allows users to check the current weather conditions of any location using the weatherapi.com API. It is built using Node.js, Express, EJS, and styled with Bootstrap for a clean and responsive UI.
@@ -59,16 +57,12 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Create a new Pull Request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 - Bootstrap: [GetBootstrap.com](https://getbootstrap.com/)
 - weatherapi.com: [weatherapi.com](https://www.weatherapi.com/)
 - Node.js: [nodejs.org](https://nodejs.org/)
 
-## Contact
-For any inquiries or suggestions, please feel free to contact us at [your-email@example.com](mailto:your-email@example.com).
 
 ---
 
